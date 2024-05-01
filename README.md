@@ -30,7 +30,7 @@
 - Majority of the columns except (id, region, price, and state) contained NULL values 
 - The data required significant cleansing as well as inferring the NULL values through Imputation
 
-#Findings:
+##Findings:
 - Simple visualization analysis suggests that the mid size diesel fuel pick up trucks are the most expensive vehicles. However gas powered mid size pick 4 wheel drive vehicles sell more in numbers.
 - Please refer to visualization file for visual analysis.
-- Please refer to modeling file for visual analysis.
+- Please refer to model file for visual analysis.
